@@ -1,5 +1,6 @@
 # node-express-sequelize
 CRUD API compatible with Postgres or sqlite3
+
 *Reference: https://sequelize.org/master/manual/getting-started.html*
 ## Optional Dependency
 ```
