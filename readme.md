@@ -1,6 +1,6 @@
 # node-express-sequelize
-CRUD API compatible with Postgres or sqlie3
-
+CRUD API compatible with Postgres or sqlite3
+*Reference: https://sequelize.org/master/manual/getting-started.html*
 ## Optional Dependency
 ```
 npm install -g nodemon
